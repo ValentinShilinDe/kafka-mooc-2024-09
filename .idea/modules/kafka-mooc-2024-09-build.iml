@@ -19,4 +19,8 @@
       </library>
     </orderEntry>
   </component>
+  <component name="SbtModule">
+    <option name="buildForURI" value="file:/$MODULE_DIR$/../../" />
+    <option name="resolvers" value="C:\Users\Win10\.ivy2\cache|ivy|true|Local cache" />
+  </component>
 </module>
